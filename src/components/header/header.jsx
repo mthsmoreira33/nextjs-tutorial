@@ -6,7 +6,7 @@ export const Header = () => {
     <header>
       <div>
         <div className="topNav">
-          <Image alt="logo" src={'/images/logo_black.png'} width={50} height={50} />
+          <Image alt="logo" src={'/images/logo_black.png'} width={180} height={100} />
           <nav>
             <ul>
               <li>
@@ -15,8 +15,8 @@ export const Header = () => {
                 </Link>
               </li>
               <li>
-                <Link href="/events" passHref>
-                  <a> Events</a>
+                <Link href="/properties" passHref>
+                  <a> Properties</a>
                 </Link>
               </li>
               <li>
@@ -27,7 +27,15 @@ export const Header = () => {
             </ul>
           </nav>
         </div>
-        <p className="title"> Sed ut perspiciatis unde omnis</p>
+        <ul>
+          <li>
+            Email: arkinvestments.us@gmail.com
+          </li>
+          <li>
+            Phone: 501-673-5559
+          </li>
+        </ul>
+        <p className="title"> We&apos;re to Help You</p>
       </div>
     </header>
   );

@@ -4,8 +4,8 @@ import Image from 'next/image';
 export const HomePage = ({ data }) => (
   <div className="home_body">
     {data?.map((ev) => (
-      <Link key={ev.id} href={`/events/${ev.id}`} passHref>
-        <a className="card" href={`/events/${ev.id}`}>
+      <Link key={ev.id} href={`/properties/${ev.id}`} passHref>
+        <a className="card" href={`/properties/${ev.id}`}>
           <div className="image">
             <Image width={600} height={400} alt={ev.title} src={ev.image} />
           </div>
