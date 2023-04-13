@@ -3,13 +3,13 @@
     {
       "id": "arkansas",
       "title": "Investments in Arkansas",
-      "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem",
+      "description": "Meet incredible opportunities in Arkansas",
       "image": "https://www.visiteosusa.com.br/sites/default/files/styles/state_hero_l/public/images/hero_media_image/2017-01/390a10de71eb7735199723233cbb7553.jpeg?h=c2b58332&itok=K5YMBFpP"
     },
     {
       "id": "mississippi",
       "title": "Investments in Mississippi",
-      "description": "corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate.",
+      "description": "Meet incredible opportunities in Mississippi",
       "image": "https://www.visiteosusa.com.br/sites/default/files/styles/4_3_1440x1080/public/images/attraction_image/2016-10/Elvis%20Birthplace_Web72DPI.jpg?h=4362216e&itok=AIFp_lUE"
     }
   ],
@@ -20,31 +20,21 @@
       "city": "arkansas",
       "description": "Beautiful Lot at 11 El Ejido Ln Hot Springs Village, AR. This lot is priced Bellow Market, this is your exclusive chance to live in such a privileged area, one minute walk distance to the golf course. Owner Financing Available.",
       "image": "https://scontent.fgyn11-1.fna.fbcdn.net/v/t39.30808-6/326308086_2024801777729926_1681218184727584009_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGXnXD3qHB6fk6SYw36j4NCwIqTNhcV55rAipM2FxXnmgW_41eTB5DgVToglAFeEjNxW14LVDu4p3bIiQg_HtlD&_nc_ohc=-VUP5-RjpuYAX9YieLI&_nc_ht=scontent.fgyn11-1.fna&oh=00_AfCg9_i9FtQwlRvM1Yj-IZaktmr8dpylYKNOeKeTkCq0Nw&oe=643BC780",
-      "emails_registered": []
+      "price": "$60000",
+      "type": "Lot",
+      "size": "1600ft²",
+      "places": "2 bathrooms, 3 bedrooms"
     },
     {
-      "id": "las-navas-ln",
+      "id": "4-las-navas-ln",
       "title": "4 Las Navas Ln, Hot Springs Village",
       "city": "arkansas",
       "description": "This lot is priced Bellow Market, this is your exclusive chance to live in such a privileged area.A great investment opportunity! We are here to help you.",
       "image": "https://scontent.fgyn11-1.fna.fbcdn.net/v/t39.30808-6/326326029_905008640544355_5029057696393232717_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeE9KhaQIMoiW9qjMYLCI1XOMkY9MjX38X0yRj0yNffxfW0hMJlytdOuHSygJMkM3w-5SmiPBMbRmnXvsPbh_oti&_nc_ohc=wtt65reyaJ8AX9MBb11&_nc_ht=scontent.fgyn11-1.fna&oh=00_AfAwoqTqfNYypyUlBS4YMhzX2SE8J4cVNTHs87Dk9Oj6iA&oe=643C1B6F",
-      "emails_registered": []
-    },
-    {
-      "id": "innovation-summit-mississippi",
-      "title": "Innovation Summit Mississippi",
-      "city": "mississippi",
-      "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-      "image": "https://images.unsplash.com/photo-1521464302861-ce943915d1c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
-      "emails_registered": []
-    },
-    {
-      "id": "fan-expo-mississippi",
-      "title": "FAN EXPO Mississippi",
-      "city": "mississippi",
-      "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-      "image": "https://images.unsplash.com/photo-1608889825103-eb5ed706fc64?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
-      "emails_registered": []
+      "price": "$60000",
+      "type": "Lot",
+      "size": "1600ft²",
+      "places": "2 bathrooms, 3 bedrooms"
     },
     {
       "id": "mississippi-opera---mississippi-tickets",
@@ -52,7 +42,10 @@
       "city": "mississippi",
       "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
       "image": "https://images.unsplash.com/photo-1580809361436-42a7ec204889?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
-      "emails_registered": []
+      "price": "$60000",
+      "type": "Lot",
+      "size": "1600ft²",
+      "places": "2 bathrooms, 3 bedrooms"
     }
   ]
 }
