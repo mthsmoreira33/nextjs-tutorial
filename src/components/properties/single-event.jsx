@@ -17,11 +17,7 @@ const SingleEvent = ({ data }) => {
         </tr>
         <tr>
           <td>Size: {data.size}</td>
-<<<<<<< HEAD
           <td>Places: {data.places}</td>
-=======
-          <td>Data: {data.places}</td>
->>>>>>> minor
         </tr>
       </table>
       <h2>Description:</h2>
