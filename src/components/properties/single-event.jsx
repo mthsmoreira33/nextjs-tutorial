@@ -11,12 +11,12 @@ const SingleEvent = ({ data }) => {
       <Image src={data.image} width={700} height={500} alt={data.title} />
       <table>
         <tr>
-          <td><ImPriceTag/>{data.price}</td>
-          <td><BsHouseDoorFill/>{data.type}</td>
+          <td>Price:{data.price}</td>
+          <td>Type:{data.type}</td>
         </tr>
         <tr>
-          <td><BsTextareaResize/>{data.size}</td>
-          <td><BsTruckFlatbed/>{data.places}</td>
+          <td>Size:{data.size}</td>
+          <td>Places:{data.places}</td>
         </tr>
       </table>
       <p> {data.description} </p>
