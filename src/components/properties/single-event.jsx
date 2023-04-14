@@ -1,6 +1,8 @@
 import Image from "next/image";
 import React, { useRef, useState } from "react";
 
+import { ImPriceTag, BsHouseDoorFill, BsTextareaResize, BsTruckFlatbed } from "react-icons/bs";
+
 const SingleEvent = ({ data }) => {
   return (
 
@@ -9,12 +11,12 @@ const SingleEvent = ({ data }) => {
       <Image src={data.image} width={700} height={500} alt={data.title} />
       <table>
         <tr>
-          <td>{data.price}</td>
-          <td>{data.type}</td>
+          <td><ImPriceTag/>{data.price}</td>
+          <td><BsHouseDoorFill/>{data.type}</td>
         </tr>
         <tr>
-          <td>{data.size}</td>
-          <td>{data.places}</td>
+          <td><BsTextareaResize/>{data.size}</td>
+          <td><BsTruckFlatbed/>{data.places}</td>
         </tr>
       </table>
       <p> {data.description} </p>
