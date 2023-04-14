@@ -32,10 +32,12 @@ export const Footer = () => {
         </ul>
         <ul>
           <li>
-            <BsFacebook/>
+            <a href="https://www.facebook.com/profile.php?id=100089709726150"><BsFacebook/></a>
           </li>
           <li>
-            <BsInstagram/>
+            <a href="https://www.instagram.com/ark_enterprise_usa_llc_/">
+              <BsInstagram/>
+            </a>
           </li>
         </ul>
     </footer>
