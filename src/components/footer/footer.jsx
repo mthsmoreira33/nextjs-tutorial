@@ -1,9 +1,10 @@
 import Link from "next/link";
+import { BsFillEnvelopeFill, BsFillTelephoneFill, BsFacebook, BsInstagram } from 'react-icons/bs';
 
 export const Footer = () => {
   return (
     <footer>
-      <p> © 2023 Matheus Moreira Lima - A Project Built with Next.js </p>
+      <p> © 2023 Ark Enterprise - A Project Built by Matheus Moreira </p>
       <ul>
         <li>
           <Link href="/" passHref>
@@ -21,6 +22,22 @@ export const Footer = () => {
           </Link>
         </li>
       </ul>
+      <ul>
+          <li>
+            <BsFillEnvelopeFill/> arkinvestments.us@gmail.com
+          </li>
+          <li>
+            <BsFillTelephoneFill/> 501-673-5559
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <BsFacebook/>
+          </li>
+          <li>
+            <BsInstagram/>
+          </li>
+        </ul>
     </footer>
   );
 };

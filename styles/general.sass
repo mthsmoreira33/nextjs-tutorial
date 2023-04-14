@@ -2,9 +2,18 @@ ul
   list-style: none
 
 header
-  height: 300px
   background: linear-gradient(305deg, #d3d3d3, transparent)
   padding: 15px 30px
+
+  ul
+      display: flex
+      justify-content: flex-end
+      text-decoration: none
+      list-style: none
+      gap: 15px
+      li
+        font-weight: 600
+        font-size: 16px
 
   >div
     width: 100%
@@ -35,6 +44,8 @@ footer
   background-color: #333
   color: #fff
   padding: 10px
+  display: flex
+  justify-content: center
   text-align: center
   >ul
       display: flex
@@ -140,3 +151,20 @@ table
       &:hover
         color: #dcfff3
         background: #333
+
+@media (max-width: 800px)
+  body
+    height: 100vh
+  header
+    width: 800px
+  main
+    display: flex
+    justify-content: center
+    align-items: center
+    width: 800px
+    height: 920px
+  footer
+    width: 801px
+    display: block
+    position: fixed
+    bottom: 0

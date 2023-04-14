@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import Image from 'next/image';
+import { BsFillEnvelopeFill, BsFillTelephoneFill } from 'react-icons/bs';
 
 export const Header = () => {
   return (
@@ -29,10 +30,10 @@ export const Header = () => {
         </div>
         <ul>
           <li>
-            Email: arkinvestments.us@gmail.com
+            <BsFillEnvelopeFill/> arkinvestments.us@gmail.com
           </li>
           <li>
-            Phone: 501-673-5559
+            <BsFillTelephoneFill/> 501-673-5559
           </li>
         </ul>
         <p className="title"> We&apos;re to Help You</p>
