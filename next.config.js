@@ -11,6 +11,7 @@ const nextConfig = {
       "scontent.fgyn11-1.fna.fbcdn.net",
       "hydeparkwinterwonderland.com",
       "image.cnbcfm.com",
+      "live.staticflickr.com",
     ],
   },
 };
