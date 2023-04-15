@@ -20,10 +20,10 @@
       "city": "arkansas",
       "description": "Beautiful Lot at 11 El Ejido Ln Hot Springs Village, AR. This lot is priced Bellow Market, this is your exclusive chance to live in such a privileged area, one minute walk distance to the golf course. Owner Financing Available.",
       "image": "https://scontent.fgyn11-1.fna.fbcdn.net/v/t39.30808-6/326308086_2024801777729926_1681218184727584009_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGXnXD3qHB6fk6SYw36j4NCwIqTNhcV55rAipM2FxXnmgW_41eTB5DgVToglAFeEjNxW14LVDu4p3bIiQg_HtlD&_nc_ohc=-VUP5-RjpuYAX9YieLI&_nc_ht=scontent.fgyn11-1.fna&oh=00_AfCg9_i9FtQwlRvM1Yj-IZaktmr8dpylYKNOeKeTkCq0Nw&oe=643BC780",
-      "price": "$60000",
+      "price": "$4,200",
       "type": "Lot",
-      "size": "1600ft²",
-      "places": "2 bathrooms, 3 bedrooms"
+      "size": "",
+      "places": ""
     },
     {
       "id": "4-las-navas-ln",
@@ -35,6 +35,28 @@
       "type": "Lot",
       "size": "1600ft²",
       "places": "2 bathrooms, 3 bedrooms"
+    },
+    {
+      "id": "51-jaguar-way",
+      "title": "1 Black foot drive Eureka Springs AR 72631",
+      "city": "arkansas",
+      "description": "A great investment opportunity! Owner financing Available.",
+      "image": "https://scontent.fgyn11-1.fna.fbcdn.net/v/t39.30808-6/326266312_1102857140382255_7192141662281492380_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=mGbedVTWPBkAX90fSXH&_nc_ht=scontent.fgyn11-1.fna&oh=00_AfAbs2VgyEQJTlPhRu_eOtECCKqCDIKHQgWDt7-WA2oV6g&oe=643F3DB3",
+      "price": "$7,200",
+      "type": "Lot",
+      "size": "",
+      "places": ""
+    },
+    {
+      "id": "1-blackfoot",
+      "title": "51 jaguar way Hot Springs Village AR 71909",
+      "city": "arkansas",
+      "description": "Partial# 320-04003-000 A great investment opportunity! Owner financing Available. We are here to help you.",
+      "image": "https://scontent.fgyn11-1.fna.fbcdn.net/v/t39.30808-6/326575182_585075649618392_7202298064253693146_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=VOOPddBU3ucAX_YAsKN&_nc_ht=scontent.fgyn11-1.fna&oh=00_AfB7fy8fuyufeMoiC7Ed5Qsc1JRj9wgDLAmgOc1FoRhrWA&oe=643F625C",
+      "price": "$7200",
+      "type": "Lot",
+      "size": "",
+      "places": ""
     },
     {
       "id": "greenville-ms",
