@@ -38,7 +38,7 @@
     },
     {
       "id": "51-jaguar-way",
-      "title": "1 Black foot drive Eureka Springs AR 72631",
+      "title": "1 Black foot drive Eureka Springs",
       "city": "arkansas",
       "description": "A great investment opportunity! Owner financing Available.",
       "image": "https://scontent.fgyn11-1.fna.fbcdn.net/v/t39.30808-6/326266312_1102857140382255_7192141662281492380_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=mGbedVTWPBkAX90fSXH&_nc_ht=scontent.fgyn11-1.fna&oh=00_AfAbs2VgyEQJTlPhRu_eOtECCKqCDIKHQgWDt7-WA2oV6g&oe=643F3DB3",
@@ -49,7 +49,7 @@
     },
     {
       "id": "1-blackfoot",
-      "title": "51 jaguar way Hot Springs Village AR 71909",
+      "title": "51 jaguar way Hot Springs Village",
       "city": "arkansas",
       "description": "Partial# 320-04003-000 A great investment opportunity! Owner financing Available. We are here to help you.",
       "image": "https://scontent.fgyn11-1.fna.fbcdn.net/v/t39.30808-6/326575182_585075649618392_7202298064253693146_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=VOOPddBU3ucAX_YAsKN&_nc_ht=scontent.fgyn11-1.fna&oh=00_AfB7fy8fuyufeMoiC7Ed5Qsc1JRj9wgDLAmgOc1FoRhrWA&oe=643F625C",
@@ -62,8 +62,19 @@
       "id": "greenville-ms",
       "title": "Greenville, MS",
       "city": "mississippi",
-      "description": "This 3 beds 1 bath 1600 ft.² home has great potential to be someone's dream home or a great investment property.  Contact us today to make it yours: 501-673-5559",
+      "description": "This single family home in Greenville MS is sale by owner. About 2500 ft.² of living space. Take the chance to own your house today.",
       "image": "https://scontent.fgyn11-1.fna.fbcdn.net/v/t39.30808-6/337273806_949725902894414_308779124675627921_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=wOR7FfSQdoYAX9n0T0R&_nc_ht=scontent.fgyn11-1.fna&oh=00_AfDg8HRIziy6inm-Hotu2K9aJEYGL5qQZIkfnomyoSyqxA&oe=643F4865",
+      "price": "$60000",
+      "type": "Lot",
+      "size": "1600ft²",
+      "places": "2 bathrooms, 3 bedrooms"
+    },
+    {
+      "id": "meridian-ms",
+      "title": "Meridian, MS",
+      "city": "mississippi",
+      "description": "This 3 beds 1 bath 1600 ft.² home has great potential to be someone's dream home or a great investment property. ",
+      "image": "https://scontent.fgyn11-1.fna.fbcdn.net/v/t39.30808-6/336075854_1575518546192677_7372692742009560749_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=f6dGqaUwEkQAX8-8SsP&_nc_ht=scontent.fgyn11-1.fna&oh=00_AfBZJoPELAfUXogSMyLVDIDoNUy_o38hsDcuk0U3HXwkJw&oe=644026B0",
       "price": "$60000",
       "type": "Lot",
       "size": "1600ft²",
