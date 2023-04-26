@@ -12,7 +12,7 @@ export const Footer = () => {
           </Link>
         </li>
         <li>
-          <Link href="/events" passHref>
+          <Link href="/properties" passHref>
             <a> Properties</a>
           </Link>
         </li>
@@ -32,10 +32,10 @@ export const Footer = () => {
         </ul>
         <ul>
           <li>
-            <a href="https://www.facebook.com/profile.php?id=100089709726150"><BsFacebook/></a>
+            <a href="https://www.facebook.com/profile.php?id=100089709726150" target="_blank" rel="noreferrer"><BsFacebook/></a>
           </li>
           <li>
-            <a href="https://www.instagram.com/ark_enterprise_usa_llc_/">
+            <a href="https://www.instagram.com/ark_enterprise_usa_llc_/" target="_blank" rel="noreferrer">
               <BsInstagram/>
             </a>
           </li>
