@@ -8,7 +8,7 @@ const AboutUsPage = () => {
         individuals and businesses maximize their returns in the dynamic world
         of real estate. With a passion for investment opportunities and a deep
         understanding of the market, we offer a comprehensive range of services
-        tailored to meet your specific investment goals. Whether you're a
+        tailored to meet your specific investment goals. Whether you&apos;re a
         seasoned investor or just starting out, our expertise and personalized
         approach will guide you through the entire investment process, ensuring
         success and peace of mind.
