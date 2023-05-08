@@ -5,6 +5,7 @@ import Link from 'next/link';
 const CatEvent = ({ data, pageName }) => {
   pageName = pageName.charAt(0).toUpperCase() + pageName.substring(1);
   return (
+    <div className="cat_event_page">
     <div className="cat_events">
       <h1> Investments in {pageName} </h1>
 
@@ -20,6 +21,7 @@ const CatEvent = ({ data, pageName }) => {
           </Link>
         ))}
       </div>
+    </div>
     </div>
   );
 };
