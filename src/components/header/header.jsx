@@ -33,10 +33,10 @@ export const Header = () => {
             <BsFillEnvelopeFill/> arkinvestments.us@gmail.com
           </li>
           <li>
-            <BsFillTelephoneFill/> 501-673-5559
+            <a href="tel:+1 501-673-5559"><BsFillTelephoneFill/> 501-673-5559</a>
           </li>
         </ul>
-        <p className="title"> We&apos;re to Help You</p>
+        <p className="title"> We&apos;re here to Help You</p>
       </div>
     </header>
   );

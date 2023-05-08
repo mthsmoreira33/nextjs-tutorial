@@ -1,7 +1,10 @@
-import Link from 'next/link';
 import Image from 'next/image';
+import Link from 'next/link';
+import AboutUsPage from '../../../pages/about-us';
 
 export const HomePage = ({ data }) => (
+  <>
+  <AboutUsPage />
   <div className="home_body">
     {data?.map((ev) => (
       <Link key={ev.id} href={`/properties/${ev.id}`} passHref>
@@ -17,4 +20,5 @@ export const HomePage = ({ data }) => (
       </Link>
     ))}
   </div>
+  </>
 );

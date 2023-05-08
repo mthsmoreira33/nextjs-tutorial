@@ -1,42 +1,18 @@
 const AboutUsPage = () => {
   return (
-    <div>
-      <h1> About us Page</h1>
+    <div className="about-us">
+      <h1>About us</h1>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-        laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-        voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-        cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        Welcome to Ark Enterprise, your premier destination for real estate
+        investments. We are a trusted and experienced team dedicated to helping
+        individuals and businesses maximize their returns in the dynamic world
+        of real estate. With a passion for investment opportunities and a deep
+        understanding of the market, we offer a comprehensive range of services
+        tailored to meet your specific investment goals. Whether you're a
+        seasoned investor or just starting out, our expertise and personalized
+        approach will guide you through the entire investment process, ensuring
+        success and peace of mind.
       </p>
-      <h2>Dlor in reprehenderit </h2>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-        laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-        voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-        cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-      </p>
-      <ul className="about_us_list">
-        <li>
-          <h3>Dlor in reprehenderit </h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-            exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-            dolor in reprehenderit in
-          </p>
-        </li>
-        <li>
-          <h3>Sed do eiusmod tempor </h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-            exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-            dolor in reprehenderit in
-          </p>
-        </li>
-      </ul>
     </div>
   );
 };

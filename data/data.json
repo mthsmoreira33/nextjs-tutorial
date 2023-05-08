@@ -5,12 +5,6 @@
       "title": "Investments in Arkansas",
       "description": "Meet incredible opportunities in Arkansas",
       "image": "https://image.cnbcfm.com/api/v1/image/107072949-1654710346670-gettyimages-460683967-000032267012_Large.jpeg?v=1654710380"
-    },
-    {
-      "id": "mississippi",
-      "title": "Investments in Mississippi",
-      "description": "Meet incredible opportunities in Mississippi",
-      "image": "https://live.staticflickr.com/3048/2763601981_606c3a670a_b.jpg"
     }
   ],
   "allEvents": [
@@ -57,28 +51,6 @@
       "type": "Lot",
       "size": "",
       "places": ""
-    },
-    {
-      "id": "greenville-ms",
-      "title": "Greenville, MS",
-      "city": "mississippi",
-      "description": "This single family home in Greenville MS is sale by owner. About 2500 ft.² of living space. Take the chance to own your house today.",
-      "image": "https://scontent.fgyn11-1.fna.fbcdn.net/v/t39.30808-6/337273806_949725902894414_308779124675627921_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=wOR7FfSQdoYAX9n0T0R&_nc_ht=scontent.fgyn11-1.fna&oh=00_AfDg8HRIziy6inm-Hotu2K9aJEYGL5qQZIkfnomyoSyqxA&oe=643F4865",
-      "price": "$60000",
-      "type": "Lot",
-      "size": "1600ft²",
-      "places": "2 bathrooms, 3 bedrooms"
-    },
-    {
-      "id": "meridian-ms",
-      "title": "Meridian, MS",
-      "city": "mississippi",
-      "description": "This 3 beds 1 bath 1600 ft.² home has great potential to be someone's dream home or a great investment property. ",
-      "image": "https://scontent.fgyn11-1.fna.fbcdn.net/v/t39.30808-6/336075854_1575518546192677_7372692742009560749_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=f6dGqaUwEkQAX8-8SsP&_nc_ht=scontent.fgyn11-1.fna&oh=00_AfBZJoPELAfUXogSMyLVDIDoNUy_o38hsDcuk0U3HXwkJw&oe=644026B0",
-      "price": "$60000",
-      "type": "Lot",
-      "size": "1600ft²",
-      "places": "2 bathrooms, 3 bedrooms"
     }
   ]
 }
